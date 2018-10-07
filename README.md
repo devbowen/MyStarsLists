@@ -1,6 +1,5 @@
-# MyStarsLists
-> My github stars lists.  
 ## 优秀库
+
 ### 网络
 1. Okhttp 
 2. Okhttp3二次封装：  [MyOkHttp](https://github.com/tsy12321/MyOkHttp)  
@@ -24,8 +23,8 @@
 2. GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频：  [Android](https://github.com/open-android/Android)  
 3. some code tips for android：  [awesome-android-tips](https://github.com/jiang111/awesome-android-tips)  
 4. android sdk 源码解析：  [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
-5. 这是一份详细的RxJava学习攻略 & 指南：  [RxJavaLearningMaterial](https://github.com/Carson-Ho/RxJavaLearningMaterial)
-6. 
+5. 这是一份详细的RxJava学习攻略 & 指南：  [RxJavaLearningMaterial](https://github.com/Carson-Ho/RxJavaLearningMaterial)  
+6. 安卓学习笔记： [AndroidNote](https://github.com/GcsSloop/AndroidNote)  
 
 
 ### Android Studio
@@ -52,7 +51,6 @@
 
 ## 一些有趣的东西
 1. 万物皆可 RSS：  [RSSHub](https://github.com/DIYgod/RSSHub)  
-2. 一键领取饿了么、美团手气最佳红包  [mtdhb](https://github.com/mtdhb/mtdhb)  
-3. 
-
-
+2. 一键领取饿了么、美团手气最佳红包：  [mtdhb](https://github.com/mtdhb/mtdhb)    
+3. Docker + Minecraft： [dockercraft](https://github.com/docker/dockercraft)  
+4. software version control visualization： [Gource](https://github.com/acaudwell/Gource)
